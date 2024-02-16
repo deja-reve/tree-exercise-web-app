@@ -1,0 +1,21 @@
+.tree {
+  background-color: #efefef;
+  height: 100%;
+  padding: 10px 0px;
+  font-family: monospace;
+}
+
+.tree li {
+  padding-left: 16px;
+  list-style-type: none;
+}
+
+.trunk {
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.item-label {
+  display: flex;
+  align-items: center;
+}
